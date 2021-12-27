@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Bill's Natural Language Processing
 
 You can use the [editor on GitHub](https://github.com/bill-richards/natural-language-processing/edit/develop/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
