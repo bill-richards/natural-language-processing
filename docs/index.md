@@ -1,8 +1,6 @@
 # Bill's Natural Language Processing
 
-You can use the [editor on GitHub](https://github.com/bill-richards/natural-language-processing/edit/develop/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+See [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ## Jekyll Themes
 
